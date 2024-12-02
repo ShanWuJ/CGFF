@@ -40,9 +40,14 @@ dataset
 
 2. Train from scratch with ``train.py``.
 
-
-## Contact
-Thanks for your attention!
-If you have any suggestion or question, you can leave a message here or contact us directly:
-   hujun@cqupt.edu.cn
-   wushanj2023@163.com
+If you find our code or paper useful to your research work, please consider citing our work using the following bibtex:
+@article{wu2025cross,
+  title={A cross-granularity feature fusion method for fine-grained image recognition},
+  author={Wu, Shan and Hu, Jun and Sun, Chen and Zhong, Fujin and Zhang, Qinghua and Wang, Guoyin},
+  journal={Applied Intelligence},
+  volume={55},
+  number={1},
+  pages={1--19},
+  year={2025},
+  publisher={Springer}
+}
