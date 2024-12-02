@@ -43,20 +43,21 @@ dataset
 If you find our code or paper useful to your research work, please consider citing our work using the following bibtex:
 
 @article{wu2025cross,
-  title={A cross-granularity feature fusion method for fine-grained image recognition},
+
+         title={A cross-granularity feature fusion method for fine-grained image recognition},
   
-  author={Wu, Shan and Hu, Jun and Sun, Chen and Zhong, Fujin and Zhang, Qinghua and Wang, Guoyin},
+         author={Wu, Shan and Hu, Jun and Sun, Chen and Zhong, Fujin and Zhang, Qinghua and Wang, Guoyin},
   
-  journal={Applied Intelligence},
+         journal={Applied Intelligence},
   
-  volume={55},
+         volume={55},
   
-  number={1},
+         number={1},
   
-  pages={1--19},
+         pages={1--19},
   
-  year={2025},
+         year={2025},
   
-  publisher={Springer}
+         publisher={Springer}
   
 }
